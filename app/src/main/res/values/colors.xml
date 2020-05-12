@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ColorRoof">#b0cbe0</color>
+    <color name="ColorCounter">#b3aaad</color>
+    <color name="ColorItem">#dcd1d5</color>
+    <color name="ColorButtonMenu">#a6979a</color>
+    <color name="White">#fdfeff</color>
+    <color name="Black">#000000</color>
+    <color name="Photo">#6b98b7</color>
+    <color name="colorBottomReady">#a6979a</color>
+    <color name="colorField">#d3dfef</color>
+</resources>

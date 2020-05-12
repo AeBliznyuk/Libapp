@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CollectionFragment">
+
+
+    <TextView
+
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:layout_gravity="center|top"
+        android:textSize="24sp"
+        android:textColor="@color/Black"
+        android:text="@string/collection"/>
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/header_rectangle"
+        android:text="МИТИ"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/Black"/>
+
+    <TextView
+        android:id="@+id/Line1"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="1."
+        android:background="@color/colorField"
+        android:textSize="20sp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="130dp"
+        />
+    <TextView
+        android:id="@+id/Line2"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="2."
+        android:background="@color/colorField"
+        android:textSize="20sp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="180dp"
+        />
+    <TextView
+        android:id="@+id/Line3"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="3."
+        android:background="@color/colorField"
+        android:textSize="20sp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="230dp"/>
+
+    <TextView
+        android:id="@+id/header2"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/header_rectangle"
+        android:text="ТАУ"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/Black"/>
+
+    <TextView
+        android:id="@+id/Line4"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="1."
+        android:background="@color/colorField"
+        android:textSize="20sp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="330dp"
+        />
+    <TextView
+        android:id="@+id/Line5"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="2."
+        android:background="@color/colorField"
+        android:textSize="20sp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="380dp"
+        />
+    <TextView
+        android:id="@+id/Line6"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="3."
+        android:background="@color/colorField"
+        android:textSize="20sp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="430dp"/>
+
+
+
+</FrameLayout>
